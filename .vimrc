@@ -9,3 +9,6 @@ set expandtab
 
 " 들여쓰기, 내어쓰기할 때 칸수
 set shiftwidth=4
+
+" 검색어 하이라이트 
+set hls
